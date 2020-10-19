@@ -8,19 +8,19 @@
 	 🚧 Exercies Resolution 👽
 </h4>
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/kaiorr/codeSignal?color=0896f7&style=plastic">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/kaiorr/coderbyte?color=0896f7&style=plastic">
 
   <a href="https://www.linkedin.com/in/kaiorr/">
     <img alt="Made by Kaio Ribeiro" src="https://img.shields.io/badge/made%20by-kaiorr-349e65">
   </a>
 
-  <a href="https://github.com/kaiorr/codeSignal/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaiorr/codeSignal?color=f7cd36&style=plastic">
+  <a href="https://github.com/kaiorr/coderbyte/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaiorr/coderbyte?color=f7cd36&style=plastic">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-black">
-   <a href="https://github.com/kaiorr/codeSignal/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/kaiorr/codeSignal?style=social">
+   <a href="https://github.com/kaiorr/coderbyte/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/kaiorr/coderbyte?style=social">
   </a>
 </p>
 
