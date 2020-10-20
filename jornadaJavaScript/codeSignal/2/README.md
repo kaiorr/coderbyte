@@ -21,6 +21,7 @@
 > The number of the century the year is in.
 
 ## [JavaScript] Syntax Tips
+
 ```bash
 #Prints help message to the console
 #Returns a string

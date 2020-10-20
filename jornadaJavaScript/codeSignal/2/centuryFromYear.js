@@ -5,3 +5,4 @@ function centuryFromYear(year) {
       return parseInt((year/100) + 1)
   }
 }
+centuryFromYear(1950)
