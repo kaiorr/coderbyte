@@ -27,6 +27,7 @@ The area of the n-interesting polygon.
 
 ```bash
 #Prints help message to the console
+#
 #Returns a string
 function helloWorld(name) {
     console.log("This prints to the console when you Run Tests");
