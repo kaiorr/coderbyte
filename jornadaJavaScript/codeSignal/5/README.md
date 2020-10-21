@@ -10,6 +10,8 @@ shapeArea(n) = 5;
 * For n = 3, the output should be
 shapeArea(n) = 13.
 
+<img src="./assets/area.png"  width="300px"/>
+
 ## Input/Output
 
 * [execution time limit] 4 seconds (js)
