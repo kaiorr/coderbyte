@@ -2,6 +2,7 @@
     <img alt="CodeSignal" title="codeSignal" src="./git-assets/codesignal.svg" width="250px" />
     <img alt="hackerrank" title="hackerrank" src="./git-assets/hackerrank.png" width="250px" />
     <img alt="coderbyte" title="coderbyte" src="./git-assets/coderbyte.png" width="250px" />
+    <img alt="freeCodeCamp" title="freeCodeCamp" src="./git-assets/freecodecamp.png" />
 </h1>
 
 <h2 align="center">
